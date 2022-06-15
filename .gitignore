@@ -7,3 +7,9 @@
 .idea/vcs.xml
 .idea/workspace.xml
 "Icon\r"
+.idea
+.idea/bin
+.DS_Store
+.env
+.gitignore
+workspace.xml
